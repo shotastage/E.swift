@@ -7,3 +7,6 @@ build:
 
 run:
 	./.build/debug/E.swift
+
+generate:
+	swift package generate-xcodeproj
